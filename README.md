@@ -2,7 +2,21 @@
 
 ## Overview
 
-Developmental specificity is characterized by non-linear molecular reprogramming, yet how such dynamics shape intestinal metabolic homeostasis and obesity susceptibility remains poorly understood. Here, we generated a comprehensive multi-omics landscape of the porcine intestines across postnatal development (0-240 days of age), integrating bulk and single-cell transcriptomics, untargeted metabolomics, genetic variation, and phenotypic traits from 136 pigs spanning five intestinal regions. We revealed that nonlinear molecular dynamics dominated intestinal development, with coordinated multi-omics waves converging on a critical metabolic transition point at 60-90 days of age that coincided with the initiation of fat deposition. By systematically linking developmental dynamics to obesity-related phenotypes, we identified the small intestine and epithelial lineages, particularly enterocytes, as major contributors to metabolic risk. Across omics layers, phosphoenolpyruvate carboxykinase 1 (PCK1) emerged as a developmental regulator and coordinated glycolysis/gluconeogenesis, thereby reshaping intestinal carbohydrate flux during development. We proposed a PCK1-centered axis linking locally transcriptional control by HNF4A to systemic lipid homeostasis mediated by APOA1-ABCA1 across multiple tissues. Cross-species single-cell integration and Mendelian randomization further supported a conserved role of intestinal PCK1 in obesity-related traits in pigs and humans. Together, our study establishes developmental non-linearity as a fundamental feature of intestinal metabolism and identifies intestinal PCK1 as a developmentally programmed regulator of systemic obesity risk.
+###### Background:
+
+Intestinal development is a highly orchestrated dynamic process for metabolic homeostasis and long-term physiological health. Developmental nonlinearity offers new insights on developmental dynamics. However, how nonlinear developmental dynamics coordinate intestinal maturation and contribute to metabolic phenotypes remains unclear.
+
+###### Methods:
+
+We construct an intestinal multi-omics framework of 1,198,274 biological molecules, integrating transcriptomics, metabolomics, and single-cell dataset across developmental stages from 136 pigs. We performed trajectory clustering and functional identification on molecules. Multi-tissue and cross-species analyses were performed to characterize nonlinear regulatory factors and conserved molecular trajectories at the cellular level. By integrating phenotypes, we identified nonlinear molecules within developmental transient windows. Functional experiments were conducted to validate the role of nonlinear molecules.
+
+###### Results:
+
+Our analysis revealed widespread nonlinear molecular trajectories and biological pathways during intestinal development. At cellular resolution, age-related molecules exhibited collaborative dynamics within cell populations and tissue ecosystems, while cross-species analyses revealed conserved molecular trajectories in both porcine and human intestinal systems. We identified a critical developmental transition window at 60-90 days, characterized by unique cellular niches, linking nonlinear dynamics to metabolic and fat-related phenotypes. We further identified nonlinear molecules associated with obesity susceptibility, such as PCK1, highlighting the pivotal role of multi-level collaborative dynamic systems in developmental programming. 
+
+###### Conclusion:
+
+Our study offers new insights into intestinal developmental patterns and demonstrates how coordinated molecular dynamics across cells, tissues, and species shape physiological phenotypes. The findings establish a valuable framework for understanding developmental origins of metabolic traits, and identify potential temporal windows and molecular targets for metabolic intervention.Background: Intestinal development is a highly orchestrated dynamic process for metabolic homeostasis and long-term physiological health. Developmental nonlinearity offers new insights on developmental dynamics. However, how nonlinear developmental dynamics coordinate intestinal maturation and contribute to metabolic phenotypes remains unclear.
 
 
 
@@ -10,12 +24,13 @@ Developmental specificity is characterized by non-linear molecular reprogramming
 
 The analyses contained in our work:
 
-* Overview of the multi-omics molecules dataset.
-* Nonlinear dynamics of multi-omics molecules during pig development in intestines.
-* A developmental metabolic transition point links intestinal nonlinearity to obesity risk.
-* PCK1 affects G/G, TCA, and PPP in aged pig intestines and vitro enterocytes.
-* Intestinal PCK1 gene engages obesity regulation: multi-omics evidence of genetic variation and causal relationship.
-* PCK1 gene axis in a multicellular ecosystem: starting from the intestine.
+* A multi-omics framework to resolve developmental specificity in the intestine.
+* Nonlinear molecules define the dynamics of intestine during development.
+* Functional implication of nonlinear changes during intestinal development.
+* Collaborations of age-related cellular molecules exist during intestinal development.
+* Dynamic changes of multi-tissue and cross‑species molecules are also age-related.
+* The developmental transition window connects intestinal nonlinearity to phenotypes.
+* Nonlinear molecule PCK1 rewires carbohydrate flux and contributes to obesity susceptibility.
   
   
 

@@ -28,7 +28,7 @@ The analyses contained in our work:
 * Nonlinear molecules define the dynamics of intestine during development.
 * Functional implication of nonlinear changes during intestinal development.
 * Collaborations of age-related cellular molecules exist during intestinal development.
-* Dynamic changes of multi-tissue and cross‑species molecules are also age-related.
+* Multi-tissue and cross-species analyses reveal coordinated developmental and conserved molecular trajectories.
 * The developmental transition window connects intestinal nonlinearity to phenotypes.
 * Nonlinear molecule PCK1 rewires carbohydrate flux and contributes to obesity susceptibility.
   
